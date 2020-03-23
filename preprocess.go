@@ -22,6 +22,7 @@ func PreProcess(sheetSlice []string, xlsx *excelize.File) *excelize.File {
 		columnNum := len(rows[0])
 		indexToDel := make([]int, 0)
 
+		//skip first column, always keep it
 		for j := 1; j < columnNum; j++ {
 			cell := rows[0][j]
 

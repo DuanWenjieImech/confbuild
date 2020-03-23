@@ -11,6 +11,8 @@ import (
 
 var funcMap = template.FuncMap{}
 
+var listStructDes = make([]StructMeta, 0)
+
 func init(){
 
 	funcMap["IsString"] = func(dataType string) bool {
@@ -257,9 +259,8 @@ func  Struct_OptionalStructParse(metas []*DataMeta) (desc *StructDesc, offset in
 }
 
 
-
-func Struct_Parse(sheetSlice []string, xlsx *excelize.File) {
-	sdlist := []*StructDesc{}
+func Struct_Process(sheetSlice []string, xlsx *excelize.File) (structDescItem []*StructDesc){
+	structDescItem = []*StructDesc{}
 	for _, sheet := range sheetSlice {
 		rows, err := xlsx.GetRows(sheet)
 		if len(rows) <= 0 || err != nil {
@@ -267,12 +268,16 @@ func Struct_Parse(sheetSlice []string, xlsx *excelize.File) {
 		}
 
 		desc := Struct_SheetParse(rows, sheet)
-		sdlist = append(sdlist, desc)
-
+		structDescItem = append(structDescItem, desc)
 	}
 
-	strarr := strings.Split(excel, ".")
-	outFilename := strings.Join(strarr[:len(strarr)-1], ".") + ".go"
+	return structDescItem
+}
+
+func Struct_Parse(sdlist []*StructDesc ) {
+	//strarr := strings.Split(excel, ".")
+	//outFilename := strings.Join(strarr[:len(strarr)-1], ".") + ".go"
+	outFilename := excelRoot + "ConfData.go"
 	fmt.Println(outFilename)
 
 	outFile, err := os.Create(outFilename)

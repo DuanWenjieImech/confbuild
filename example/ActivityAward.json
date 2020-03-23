@@ -1,0 +1,2271 @@
+[
+	{
+		"ActivtyId": 3,
+		"Comment": "个人烹饪",
+		"Condition": 1,
+		"Num": 500,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50104,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 30001,
+				"Type": 10
+			}
+		],
+		"TempID": 1
+	},
+	{
+		"ActivtyId": 3,
+		"Comment": "全民烹饪",
+		"Condition": 2,
+		"Num": 100000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 16,
+				"Type": 9
+			},
+			{
+				"Num": 5,
+				"Type": 3
+			}
+		],
+		"TempID": 2
+	},
+	{
+		"ActivtyId": 3,
+		"Comment": "全民烹饪",
+		"Condition": 2,
+		"Num": 300000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50005,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Type": 3
+			}
+		],
+		"TempID": 3
+	},
+	{
+		"ActivtyId": 3,
+		"Comment": "全民烹饪",
+		"Condition": 2,
+		"Num": 500000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 15,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 30005,
+				"Type": 10
+			}
+		],
+		"TempID": 4
+	},
+	{
+		"ActivtyId": 3,
+		"Comment": "全民烹饪",
+		"Condition": 2,
+		"Num": 700000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50104,
+				"Type": 10
+			},
+			{
+				"Num": 20,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 32005,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 32004,
+				"Type": 10
+			}
+		],
+		"TempID": 5
+	},
+	{
+		"ActivtyId": 3,
+		"Comment": "全民烹饪",
+		"Condition": 2,
+		"Num": 1000000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 54,
+				"Type": 9
+			},
+			{
+				"Num": 25,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 30006,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50104,
+				"Type": 10
+			}
+		],
+		"TempID": 6
+	},
+	{
+		"ActivtyId": 4,
+		"Comment": "累计充值10元",
+		"Condition": 1,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 10,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 50104,
+				"Type": 10
+			}
+		],
+		"TempID": 7
+	},
+	{
+		"ActivtyId": 4,
+		"Comment": "累计充值38元",
+		"Condition": 1,
+		"Num": 38,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50104,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50004,
+				"Type": 10
+			}
+		],
+		"TempID": 8
+	},
+	{
+		"ActivtyId": 4,
+		"Comment": "累计充值98元",
+		"Condition": 1,
+		"Num": 98,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 60,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 32008,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50005,
+				"Type": 10
+			}
+		],
+		"TempID": 9
+	},
+	{
+		"ActivtyId": 4,
+		"Comment": "累计充值168元",
+		"Condition": 1,
+		"Num": 168,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 71,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 32009,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50104,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50005,
+				"Type": 10
+			}
+		],
+		"TempID": 10
+	},
+	{
+		"ActivtyId": 4,
+		"Comment": "累计充值198元",
+		"Condition": 1,
+		"Num": 198,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 27,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 32010,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 50104,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50005,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30011,
+				"Type": 10
+			}
+		],
+		"TempID": 11
+	},
+	{
+		"ActivtyId": 5,
+		"Comment": "累计消耗",
+		"Condition": 1,
+		"Num": 1000,
+		"RewardData": [
+			{
+				"Num": 10,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 30511,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 30404,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 30228,
+				"Type": 10
+			}
+		],
+		"TempID": 12
+	},
+	{
+		"ActivtyId": 5,
+		"Comment": "累计消耗",
+		"Condition": 1,
+		"Num": 2000,
+		"RewardData": [
+			{
+				"Num": 30,
+				"Type": 20
+			},
+			{
+				"Num": 3,
+				"Param1": 50003,
+				"Type": 10
+			},
+			{
+				"Num": 4,
+				"Param1": 30511,
+				"Type": 10
+			},
+			{
+				"Num": 4,
+				"Param1": 30404,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 30221,
+				"Type": 10
+			}
+		],
+		"TempID": 13
+	},
+	{
+		"ActivtyId": 5,
+		"Comment": "累计消耗",
+		"Condition": 1,
+		"Num": 3000,
+		"RewardData": [
+			{
+				"Num": 50,
+				"Type": 20
+			},
+			{
+				"Num": 3,
+				"Param1": 50004,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60003,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 14
+	},
+	{
+		"ActivtyId": 5,
+		"Comment": "累计消耗",
+		"Condition": 1,
+		"Num": 4000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 50005,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60003,
+				"Type": 10
+			},
+			{
+				"Num": 8,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 8,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 15
+	},
+	{
+		"ActivtyId": 5,
+		"Comment": "累计消耗",
+		"Condition": 1,
+		"Num": 5000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 31,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 50010,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60003,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 16
+	},
+	{
+		"ActivtyId": 7,
+		"Comment": "新服冲级",
+		"Condition": 1,
+		"Num": 8,
+		"RewardData": [
+			{
+				"Num": 10,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 50002,
+				"Type": 10
+			}
+		],
+		"TempID": 17
+	},
+	{
+		"ActivtyId": 7,
+		"Comment": "新服冲级",
+		"Condition": 1,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 20,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 50003,
+				"Type": 10
+			}
+		],
+		"TempID": 18
+	},
+	{
+		"ActivtyId": 7,
+		"Comment": "新服冲级",
+		"Condition": 1,
+		"Num": 13,
+		"RewardData": [
+			{
+				"Num": 30,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 50004,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 51001,
+				"Type": 10
+			}
+		],
+		"TempID": 19
+	},
+	{
+		"ActivtyId": 7,
+		"Comment": "新服冲级",
+		"Condition": 1,
+		"Num": 16,
+		"RewardData": [
+			{
+				"Num": 40,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 50004,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 51002,
+				"Type": 10
+			}
+		],
+		"TempID": 20
+	},
+	{
+		"ActivtyId": 7,
+		"Comment": "新服冲级",
+		"Condition": 1,
+		"Num": 18,
+		"RewardData": [
+			{
+				"Num": 50,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 50004,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 50104,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 51104,
+				"Type": 10
+			}
+		],
+		"TempID": 21
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "个人接待1",
+		"Condition": 1,
+		"Num": 150,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 10011,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30228,
+				"Type": 10
+			}
+		],
+		"TempID": 22
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "个人接待2",
+		"Condition": 1,
+		"Num": 400,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50003,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 10013,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30228,
+				"Type": 10
+			}
+		],
+		"TempID": 23
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "个人接待3",
+		"Condition": 1,
+		"Num": 600,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50004,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 10023,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30228,
+				"Type": 10
+			}
+		],
+		"TempID": 24
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "全民接待1",
+		"Condition": 2,
+		"Num": 100000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 35,
+				"Type": 9
+			},
+			{
+				"Num": 5,
+				"Type": 3
+			}
+		],
+		"TempID": 25
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "全民接待2",
+		"Condition": 2,
+		"Num": 200000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50005,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Type": 3
+			}
+		],
+		"TempID": 26
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "全民接待3",
+		"Condition": 2,
+		"Num": 400000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 30105,
+				"Type": 10
+			},
+			{
+				"Num": 15,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			}
+		],
+		"TempID": 27
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "全民接待4",
+		"Condition": 2,
+		"Num": 500000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 32105,
+				"Type": 10
+			},
+			{
+				"Num": 20,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 32506,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30601,
+				"Type": 10
+			}
+		],
+		"TempID": 28
+	},
+	{
+		"ActivtyId": 13,
+		"Comment": "全民接待5",
+		"Condition": 2,
+		"Num": 600000,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 71,
+				"Type": 9
+			},
+			{
+				"Num": 25,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 30116,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30601,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			}
+		],
+		"TempID": 29
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "个人种植1",
+		"Condition": 1,
+		"Num": 5,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 10011,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30211,
+				"Type": 10
+			}
+		],
+		"TempID": 30
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "个人种植2",
+		"Condition": 1,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50003,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 10013,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30211,
+				"Type": 10
+			}
+		],
+		"TempID": 31
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "个人种植3",
+		"Condition": 1,
+		"Num": 20,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50004,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 10023,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30211,
+				"Type": 10
+			}
+		],
+		"TempID": 32
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "全民种植1",
+		"Condition": 2,
+		"Num": 6666,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 1,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 30601,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 30001,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60001,
+				"Type": 10
+			}
+		],
+		"TempID": 33
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "全民种植2",
+		"Condition": 2,
+		"Num": 16666,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50005,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30601,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 30404,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 34
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "全民种植3",
+		"Condition": 2,
+		"Num": 26666,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 30601,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 30406,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50103,
+				"Type": 10
+			}
+		],
+		"TempID": 35
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "全民种植4",
+		"Condition": 2,
+		"Num": 36666,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 32406,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 30601,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 30013,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50102,
+				"Type": 10
+			}
+		],
+		"TempID": 36
+	},
+	{
+		"ActivtyId": 15,
+		"Comment": "全民种植5",
+		"Condition": 2,
+		"Num": 46666,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 89,
+				"Type": 9
+			},
+			{
+				"Num": 2,
+				"Param1": 30603,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60002,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 37
+	},
+	{
+		"ActivtyId": 1000002,
+		"Comment": "一本万利1",
+		"Condition": 1,
+		"Num": 7,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 37,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 40005,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 30001,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 5,
+				"Type": 5
+			}
+		],
+		"TempID": 38
+	},
+	{
+		"ActivtyId": 1000002,
+		"Comment": "一本万利2",
+		"Condition": 1,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 32001,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 40005,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 30004,
+				"Type": 10
+			},
+			{
+				"Num": 161570,
+				"Type": 2
+			}
+		],
+		"TempID": 39
+	},
+	{
+		"ActivtyId": 1000002,
+		"Comment": "一本万利3",
+		"Condition": 1,
+		"Num": 13,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 41,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 40005,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 30103,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 30603,
+				"Type": 10
+			}
+		],
+		"TempID": 40
+	},
+	{
+		"ActivtyId": 1000002,
+		"Comment": "一本万利4",
+		"Condition": 1,
+		"Num": 18,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 32504,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 40005,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 30117,
+				"Type": 10
+			},
+			{
+				"Num": 3148343,
+				"Type": 2
+			}
+		],
+		"TempID": 41
+	},
+	{
+		"ActivtyId": 1000002,
+		"Comment": "一本万利5",
+		"Condition": 1,
+		"Num": 23,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 49,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 50007,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 40005,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 30206,
+				"Type": 10
+			},
+			{
+				"Num": 1,
+				"Param1": 31,
+				"Type": 6
+			}
+		],
+		"TempID": 42
+	},
+	{
+		"ActivtyId": 25,
+		"Comment": "累计充值10元",
+		"Condition": 1,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 20,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 43
+	},
+	{
+		"ActivtyId": 25,
+		"Comment": "累计充值38元",
+		"Condition": 1,
+		"Num": 38,
+		"RewardData": [
+			{
+				"Num": 3,
+				"Param1": 50003,
+				"Type": 10
+			},
+			{
+				"Num": 30,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 44
+	},
+	{
+		"ActivtyId": 25,
+		"Comment": "累计充值98元",
+		"Condition": 1,
+		"Num": 98,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 32501,
+				"Type": 10
+			},
+			{
+				"Num": 35,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 45
+	},
+	{
+		"ActivtyId": 25,
+		"Comment": "累计充值168元",
+		"Condition": 1,
+		"Num": 168,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 32504,
+				"Type": 10
+			},
+			{
+				"Num": 40,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 60003,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 50010,
+				"Type": 10
+			},
+			{
+				"Num": 15,
+				"Param1": 40005,
+				"Type": 10
+			}
+		],
+		"TempID": 46
+	},
+	{
+		"ActivtyId": 25,
+		"Comment": "累计充值198元",
+		"Condition": 1,
+		"Num": 198,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 112,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 32506,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60003,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 50010,
+				"Type": 10
+			},
+			{
+				"Num": 20,
+				"Param1": 40005,
+				"Type": 10
+			}
+		],
+		"TempID": 47
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金1",
+		"Condition": 1,
+		"Num": 6,
+		"RewardData": [
+			{
+				"Num": 688,
+				"Type": 3
+			}
+		],
+		"TempID": 48
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金2",
+		"Condition": 1,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 388,
+				"Type": 3
+			}
+		],
+		"TempID": 49
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金3",
+		"Condition": 1,
+		"Num": 13,
+		"RewardData": [
+			{
+				"Num": 388,
+				"Type": 3
+			}
+		],
+		"TempID": 50
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金4",
+		"Condition": 1,
+		"Num": 16,
+		"RewardData": [
+			{
+				"Num": 388,
+				"Type": 3
+			}
+		],
+		"TempID": 51
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金5",
+		"Condition": 1,
+		"Num": 20,
+		"RewardData": [
+			{
+				"Num": 588,
+				"Type": 3
+			}
+		],
+		"TempID": 52
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金6",
+		"Condition": 1,
+		"Num": 23,
+		"RewardData": [
+			{
+				"Num": 588,
+				"Type": 3
+			}
+		],
+		"TempID": 53
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金7",
+		"Condition": 1,
+		"Num": 27,
+		"RewardData": [
+			{
+				"Num": 688,
+				"Type": 3
+			}
+		],
+		"TempID": 54
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金8",
+		"Condition": 1,
+		"Num": 30,
+		"RewardData": [
+			{
+				"Num": 688,
+				"Type": 3
+			}
+		],
+		"TempID": 55
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金9",
+		"Condition": 1,
+		"Num": 33,
+		"RewardData": [
+			{
+				"Num": 688,
+				"Type": 3
+			}
+		],
+		"TempID": 56
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金10",
+		"Condition": 1,
+		"Num": 35,
+		"RewardData": [
+			{
+				"Num": 888,
+				"Type": 3
+			}
+		],
+		"TempID": 57
+	},
+	{
+		"ActivtyId": 1000003,
+		"Comment": "钻石基金11",
+		"Condition": 1,
+		"Num": 40,
+		"RewardData": [
+			{
+				"Num": 888,
+				"Type": 3
+			}
+		],
+		"TempID": 58
+	},
+	{
+		"ActivtyId": 35,
+		"Comment": "累计签到1",
+		"Condition": 1,
+		"Num": 1,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50004,
+				"Type": 10
+			}
+		],
+		"TempID": 59
+	},
+	{
+		"ActivtyId": 35,
+		"Comment": "累计签到2",
+		"Condition": 1,
+		"Num": 2,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50005,
+				"Type": 10
+			}
+		],
+		"TempID": 60
+	},
+	{
+		"ActivtyId": 35,
+		"Comment": "累计签到3",
+		"Condition": 1,
+		"Num": 3,
+		"RewardData": [
+			{
+				"Num": 8,
+				"Param1": 60001,
+				"Type": 10
+			}
+		],
+		"TempID": 61
+	},
+	{
+		"ActivtyId": 35,
+		"Comment": "累计签到4",
+		"Condition": 1,
+		"Num": 4,
+		"RewardData": [
+			{
+				"Num": 8,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 62
+	},
+	{
+		"ActivtyId": 35,
+		"Comment": "累计签到5",
+		"Condition": 1,
+		"Num": 5,
+		"RewardData": [
+			{
+				"Num": 3,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 63
+	},
+	{
+		"ActivtyId": 35,
+		"Comment": "累计签到6",
+		"Condition": 1,
+		"Num": 6,
+		"RewardData": [
+			{
+				"Num": 88,
+				"Type": 3
+			}
+		],
+		"TempID": 64
+	},
+	{
+		"ActivtyId": 35,
+		"Comment": "累计签到7",
+		"Condition": 1,
+		"Num": 7,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50007,
+				"Type": 10
+			}
+		],
+		"TempID": 65
+	},
+	{
+		"ActivtyId": 36,
+		"Comment": "登录送1",
+		"Condition": 1,
+		"Num": 1,
+		"RewardData": [
+			{
+				"Num": 10,
+				"Type": 3
+			},
+			{
+				"Num": 10,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 66
+	},
+	{
+		"ActivtyId": 36,
+		"Comment": "登录送2",
+		"Condition": 1,
+		"Num": 2,
+		"RewardData": [
+			{
+				"Num": 20,
+				"Type": 3
+			},
+			{
+				"Num": 30,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 30,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 67
+	},
+	{
+		"ActivtyId": 36,
+		"Comment": "登录送3",
+		"Condition": 1,
+		"Num": 3,
+		"RewardData": [
+			{
+				"Num": 30,
+				"Type": 3
+			},
+			{
+				"Num": 50,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 50,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 68
+	},
+	{
+		"ActivtyId": 36,
+		"Comment": "登录送4",
+		"Condition": 1,
+		"Num": 4,
+		"RewardData": [
+			{
+				"Num": 40,
+				"Type": 3
+			},
+			{
+				"Num": 80,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 80,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 69
+	},
+	{
+		"ActivtyId": 36,
+		"Comment": "登录送5",
+		"Condition": 1,
+		"Num": 5,
+		"RewardData": [
+			{
+				"Num": 50,
+				"Type": 3
+			},
+			{
+				"Num": 100,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 100,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 70
+	},
+	{
+		"ActivtyId": 36,
+		"Comment": "登录送6",
+		"Condition": 1,
+		"Num": 6,
+		"RewardData": [
+			{
+				"Num": 60,
+				"Type": 3
+			},
+			{
+				"Num": 1,
+				"Param1": 40008,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 50007,
+				"Type": 10
+			}
+		],
+		"TempID": 71
+	},
+	{
+		"ActivtyId": 36,
+		"Comment": "登录送7",
+		"Condition": 1,
+		"Num": 7,
+		"RewardData": [
+			{
+				"Num": 70,
+				"Type": 3
+			},
+			{
+				"Num": 5,
+				"Param1": 50004,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 50104,
+				"Type": 10
+			}
+		],
+		"TempID": 72
+	},
+	{
+		"ActivtyId": 37,
+		"Comment": "等级达人1",
+		"Condition": 1,
+		"Num": 14,
+		"RewardData": [
+			{
+				"Num": 300,
+				"Type": 20
+			},
+			{
+				"Num": 10,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60002,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 101
+	},
+	{
+		"ActivtyId": 37,
+		"Comment": "等级达人2",
+		"Condition": 1,
+		"Num": 16,
+		"RewardData": [
+			{
+				"Num": 500,
+				"Type": 20
+			},
+			{
+				"Num": 30,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 30,
+				"Param1": 60002,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 102
+	},
+	{
+		"ActivtyId": 37,
+		"Comment": "等级达人3",
+		"Condition": 1,
+		"Num": 20,
+		"RewardData": [
+			{
+				"Num": 800,
+				"Type": 20
+			},
+			{
+				"Num": 50,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 50,
+				"Param1": 60002,
+				"Type": 10
+			},
+			{
+				"Num": 15,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 103
+	},
+	{
+		"ActivtyId": 37,
+		"Comment": "等级达人4",
+		"Condition": 1,
+		"Num": 25,
+		"RewardData": [
+			{
+				"Num": 1000,
+				"Type": 20
+			},
+			{
+				"Num": 80,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 80,
+				"Param1": 60002,
+				"Type": 10
+			},
+			{
+				"Num": 20,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 104
+	},
+	{
+		"ActivtyId": 37,
+		"Comment": "等级达人5",
+		"Condition": 1,
+		"Num": 30,
+		"RewardData": [
+			{
+				"Num": 1200,
+				"Type": 20
+			},
+			{
+				"Num": 100,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 100,
+				"Param1": 60002,
+				"Type": 10
+			},
+			{
+				"Num": 30,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 105
+	},
+	{
+		"ActivtyId": 52,
+		"Comment": "累计签到1",
+		"Condition": 1,
+		"Num": 1,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 40008,
+				"Type": 10
+			}
+		],
+		"TempID": 106
+	},
+	{
+		"ActivtyId": 52,
+		"Comment": "累计签到2",
+		"Condition": 1,
+		"Num": 2,
+		"RewardData": [
+			{
+				"Num": 5,
+				"Param1": 50004,
+				"Type": 10
+			}
+		],
+		"TempID": 107
+	},
+	{
+		"ActivtyId": 52,
+		"Comment": "累计签到3",
+		"Condition": 1,
+		"Num": 3,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 40008,
+				"Type": 10
+			}
+		],
+		"TempID": 108
+	},
+	{
+		"ActivtyId": 52,
+		"Comment": "累计签到4",
+		"Condition": 1,
+		"Num": 4,
+		"RewardData": [
+			{
+				"Num": 3,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 109
+	},
+	{
+		"ActivtyId": 52,
+		"Comment": "累计签到5",
+		"Condition": 1,
+		"Num": 5,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50010,
+				"Type": 10
+			}
+		],
+		"TempID": 110
+	},
+	{
+		"ActivtyId": 52,
+		"Comment": "累计签到6",
+		"Condition": 1,
+		"Num": 6,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50007,
+				"Type": 10
+			}
+		],
+		"TempID": 111
+	},
+	{
+		"ActivtyId": 52,
+		"Comment": "累计签到7",
+		"Condition": 1,
+		"Num": 7,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50104,
+				"Type": 10
+			}
+		],
+		"TempID": 112
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 1,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50002,
+				"Type": 10
+			}
+		],
+		"TempID": 113
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 2,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 50003,
+				"Type": 10
+			}
+		],
+		"TempID": 114
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 3,
+		"RewardData": [
+			{
+				"Num": 2,
+				"Param1": 50004,
+				"Type": 10
+			}
+		],
+		"TempID": 115
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 4,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 30601,
+				"Type": 10
+			}
+		],
+		"TempID": 116
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 5,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 60001,
+				"Type": 10
+			}
+		],
+		"TempID": 117
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 6,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 118
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 7,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 60003,
+				"Type": 10
+			}
+		],
+		"TempID": 119
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 8,
+		"RewardData": [
+			{
+				"Num": 20,
+				"Type": 16
+			}
+		],
+		"TempID": 120
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 9,
+		"RewardData": [
+			{
+				"Num": 30,
+				"Type": 16
+			}
+		],
+		"TempID": 121
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 51001,
+				"Type": 10
+			}
+		],
+		"TempID": 122
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 11,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 51504,
+				"Type": 10
+			}
+		],
+		"TempID": 123
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图点亮奖励",
+		"Condition": 3,
+		"Num": 12,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 51102,
+				"Type": 10
+			}
+		],
+		"TempID": 124
+	},
+	{
+		"ActivtyId": 60,
+		"Comment": "拼图完成奖励",
+		"Condition": 4,
+		"Num": 12,
+		"RewardData": [
+			{
+				"Num": 30,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 30,
+				"Type": 3
+			},
+			{
+				"Num": 30,
+				"Type": 11
+			},
+			{
+				"Num": 1,
+				"Param1": 1,
+				"Type": 9
+			}
+		],
+		"TempID": 125
+	},
+	{
+		"ActivtyId": 1000001,
+		"Comment": "永久累计充值10元",
+		"Condition": 1,
+		"Num": 10,
+		"RewardData": [
+			{
+				"Num": 20,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 2,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 10001,
+		"UnLock": 0
+	},
+	{
+		"ActivtyId": 1000001,
+		"Comment": "永久累计充值38元",
+		"Condition": 1,
+		"Num": 38,
+		"RewardData": [
+			{
+				"Num": 3,
+				"Param1": 50003,
+				"Type": 10
+			},
+			{
+				"Num": 30,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 10002,
+		"UnLock": 0
+	},
+	{
+		"ActivtyId": 1000001,
+		"Comment": "永久累计充值98元",
+		"Condition": 1,
+		"Num": 98,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 32501,
+				"Type": 10
+			},
+			{
+				"Num": 35,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60001,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60002,
+				"Type": 10
+			}
+		],
+		"TempID": 10003,
+		"UnLock": 0
+	},
+	{
+		"ActivtyId": 1000001,
+		"Comment": "永久累计充值168元",
+		"Condition": 1,
+		"Num": 168,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 32504,
+				"Type": 10
+			},
+			{
+				"Num": 40,
+				"Param1": 50002,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 60003,
+				"Type": 10
+			},
+			{
+				"Num": 3,
+				"Param1": 50010,
+				"Type": 10
+			},
+			{
+				"Num": 15,
+				"Param1": 40005,
+				"Type": 10
+			}
+		],
+		"TempID": 10004,
+		"UnLock": 98
+	},
+	{
+		"ActivtyId": 1000001,
+		"Comment": "永久累计充值198元",
+		"Condition": 1,
+		"Num": 198,
+		"RewardData": [
+			{
+				"Num": 1,
+				"Param1": 112,
+				"Type": 9
+			},
+			{
+				"Num": 1,
+				"Param1": 32506,
+				"Type": 10
+			},
+			{
+				"Num": 10,
+				"Param1": 60003,
+				"Type": 10
+			},
+			{
+				"Num": 5,
+				"Param1": 50010,
+				"Type": 10
+			},
+			{
+				"Num": 20,
+				"Param1": 40005,
+				"Type": 10
+			}
+		],
+		"TempID": 10005,
+		"UnLock": 168
+	}
+]

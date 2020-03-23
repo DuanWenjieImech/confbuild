@@ -1,0 +1,102 @@
+[
+	{
+		"Comment": "万圣节活动掉糖果",
+		"PVERewardData": [
+			{
+				"Num": 1,
+				"Param1": 40003,
+				"Probability": 700,
+				"Type": 10
+			}
+		],
+		"PeachRewardData": [
+			{
+				"Num": 1,
+				"Param1": 40004,
+				"Probability": 900,
+				"Type": 10
+			}
+		],
+		"TempID": 1
+	},
+	{
+		"Comment": "圣诞节活动掉糖果",
+		"PVERewardData": [
+			{
+				"Num": 1,
+				"Param1": 40006,
+				"Probability": 700,
+				"Type": 10
+			}
+		],
+		"PeachRewardData": [
+			{
+				"Num": 1,
+				"Param1": 40007,
+				"Probability": 900,
+				"Type": 10
+			}
+		],
+		"TempID": 2
+	},
+	{
+		"Comment": "活动掉元宝",
+		"PVERewardData": [
+			{
+				"Num": 1,
+				"Param1": 40009,
+				"Probability": 700,
+				"Type": 10
+			}
+		],
+		"PeachRewardData": [
+			{
+				"Num": 1,
+				"Param1": 40009,
+				"Probability": 900,
+				"Type": 10
+			}
+		],
+		"TempID": 3
+	},
+	{
+		"Comment": "植树节活动掉道具",
+		"PVERewardData": [
+			{
+				"Num": 1,
+				"Param1": 40013,
+				"Probability": 700,
+				"Type": 10
+			}
+		],
+		"PeachRewardData": [
+			{
+				"Num": 1,
+				"Param1": 40014,
+				"Probability": 600,
+				"Type": 10
+			}
+		],
+		"TempID": 4
+	},
+	{
+		"Comment": "拼图掉落代币",
+		"PVERewardData": [
+			{
+				"Num": 1,
+				"Param1": 40012,
+				"Probability": 800,
+				"Type": 10
+			}
+		],
+		"PeachRewardData": [
+			{
+				"Num": 1,
+				"Param1": 40012,
+				"Probability": 600,
+				"Type": 10
+			}
+		],
+		"TempID": 5
+	}
+]

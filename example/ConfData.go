@@ -14,7 +14,9 @@ import(
 
 func UpdateConfAll() {
 
-	TableLevelMaterial_ListUpdate()
+	ActivityAward_ListUpdate()
+
+	ActivityDrop_ListUpdate()
 
 }
 
@@ -22,8 +24,10 @@ var ErrTableNotExit = errors.New("config table not define")
 
 func UpdateConf(table string) error {
 	switch table {
-	case "TableLevelMaterial":
-		TableLevelMaterial_ListUpdate()
+	case "ActivityAward":
+		ActivityAward_ListUpdate()
+	case "ActivityDrop":
+		ActivityDrop_ListUpdate()
 	
 	default:
 		return ErrTableNotExit
