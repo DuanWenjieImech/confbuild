@@ -277,7 +277,7 @@ func Struct_Process(sheetSlice []string, xlsx *excelize.File) (structDescItem []
 func Struct_Parse(sdlist []*StructDesc ) {
 	//strarr := strings.Split(excel, ".")
 	//outFilename := strings.Join(strarr[:len(strarr)-1], ".") + ".go"
-	outFilename := excelRoot + "ConfData.go"
+	outFilename := outPath + "/ConfData.go"
 	fmt.Println(outFilename)
 
 	outFile, err := os.Create(outFilename)
